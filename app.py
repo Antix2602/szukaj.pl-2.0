@@ -35,7 +35,7 @@ def home():
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Szukaj.pl 2.0 MEGA STYLOWO</title>
+<title>Szukaj.pl 2.0</title>
 <style>
 body {
   margin:0; font-family:'Segoe UI', sans-serif;
@@ -196,6 +196,8 @@ def search():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
+
 
 
 
